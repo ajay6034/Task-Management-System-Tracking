@@ -9,7 +9,7 @@
 - Tracks task history using a stack.
 - Handles task dependencies using a graph
 
-- Modular Code Structure
+### Modular Code Structure
   
   ![image](https://github.com/user-attachments/assets/bcd06bfb-b9f8-40d5-a8e0-385b743cccbe)
  
